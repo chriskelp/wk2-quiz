@@ -1,4 +1,14 @@
 /* Your Website Styles */
+img {
+	width: 400px;
+}
+
+h1{
+
+	color: orange;
+	text-shadow: 10px 10px 10px orange;
+
+}
 
 
 /* Show Grid */
